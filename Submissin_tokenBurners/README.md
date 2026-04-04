@@ -208,10 +208,9 @@ A pipeline without a brain is a webhook with extra steps.
 ## Screenshots
 
 **SMTP Server Emails:**
-![SMTP Server Emails Placeholder](https://via.placeholder.com/800x400?text=Upload+SMTP+Email+Screenshot+Here)
-*Upload the screenshot of the emails received from the SMTP server here.*
 
----
+---<img width="1465" height="651" alt="Screenshot 2026-04-04 at 06 23 42" src="https://github.com/user-attachments/assets/e5383f96-ae70-4bb5-8931-3d12ae4f1bf5" />
+
 
 Built for **Developer's Summit 3.0 — Agentic AI Hackathon**
 GDG On Campus · Silicon University · 3 Apr 2026
